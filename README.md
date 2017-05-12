@@ -31,9 +31,9 @@ There is no pre-established order of items in each category.
 
 # Platforms
 
-[iOS](https://github.com/apache/cordova-ios)
-[Android](https://github.com/apache/cordova-android)
-[Windows Phone](https://github.com/apache/cordova-wp8)
+* [iOS](https://github.com/apache/cordova-ios)
+* [Android](https://github.com/apache/cordova-android)
+* [Windows Phone](https://github.com/apache/cordova-wp8)
 
 # List Plugins
 * [Camera](https://github.com/apache/cordova-plugin-camera)
