@@ -9,9 +9,9 @@ A curated list of awesome Cordova Apache Plugins https://cordova.apache.org/plug
 ## Index
 
 - [About](#about)
-- [Getting Started](#getting started)
+- [Getting Started](#getting-started)
 - [Platforms](#platforms)
-- [List Plugins](#list plugins)
+- [List Plugins](#list-plugins)
 - [License](#license)
 
 # About
