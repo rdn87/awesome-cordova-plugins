@@ -44,6 +44,7 @@ There is no pre-established order of items in each category.
 * [File Transfer](https://github.com/apache/cordova-plugin-file-transfer)
 * [Geo Location](https://github.com/apache/cordova-plugin-geolocation)
 * [Splash Screen](https://github.com/apache/cordova-plugin-splashscreen)
+* [Spinner Dialog](https://github.com/greybax/cordova-plugin-native-spinner)
 * [Media](https://github.com/apache/cordova-plugin-media)
 * [File](https://github.com/apache/cordova-plugin-file)
 * [Device Info](https://github.com/apache/cordova-plugin-device)
