@@ -75,6 +75,7 @@ There is no pre-established order of items in each category.
 * [QR Code Scanner](https://www.npmjs.com/package/cordova-plugin-qrscanner)
 * [Siri Kit](https://github.com/rdn87/cordova-plugin-sirikit-available)
 * [Speech Recognition](https://github.com/pbakondy/cordova-plugin-speechrecognition)
+* [Applozic Chat & Messaging](https://github.com/AppLozic/Applozic-Cordova-Ionic-PhoneGap-Chat-Plugin)
 
 # License
 
